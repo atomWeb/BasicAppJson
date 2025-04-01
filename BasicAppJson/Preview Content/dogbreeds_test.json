@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Labrador Retriever",
+    "imageURL": "https://example.com/images/labrador-retriever.jpg",
+    "origin": "Canada",
+    "size": "Large",
+    "personality": [
+      "Friendly",
+      "Active",
+      "Intelligent"
+    ],
+    "lifeExpectancy": "10-12 years",
+    "energyLevel": "High",
+    "trainability": "High",
+    "characteristics": {
+      "coat": "Short and dense",
+      "colors": [
+        "Black",
+        "Chocolate",
+        "Yellow"
+      ],
+      "averageWeight": {
+        "male": "29-36 kg",
+        "female": "25-32 kg"
+      }
+    }
+  },
+  {
+    "name": "German Shepherd",
+    "imageURL": "https://example.com/images/german-shepherd.jpg",
+    "origin": "Germany",
+    "size": "Large",
+    "personality": [
+      "Loyal",
+      "Brave",
+      "Intelligent"
+    ],
+    "lifeExpectancy": "9-13 years",
+    "energyLevel": "High",
+    "trainability": "High",
+    "characteristics": {
+      "coat": "Medium to long",
+      "colors": [
+        "Black and tan",
+        "Black and red",
+        "Solid black"
+      ],
+      "averageWeight": {
+        "male": "30-40 kg",
+        "female": "22-32 kg"
+      }
+    }
+  },
+  {
+    "name": "French Bulldog",
+    "imageURL": "https://example.com/images/french-bulldog.jpg",
+    "origin": "France",
+    "size": "Small",
+    "personality": [
+      "Playful",
+      "Alert",
+      "Affectionate"
+    ],
+    "lifeExpectancy": "10-12 years",
+    "energyLevel": "Moderate",
+    "trainability": "Moderate",
+    "characteristics": {
+      "coat": "Short",
+      "colors": [
+        "Brindle",
+        "Cream",
+        "White with patches"
+      ],
+      "averageWeight": {
+        "male": "9-13 kg",
+        "female": "8-12 kg"
+      }
+    }
+  }
+]

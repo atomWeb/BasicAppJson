@@ -1,0 +1,286 @@
+[
+  {
+    "name": "Labrador Retriever",
+    "imageURL": "https://example.com/images/labrador-retriever.jpg",
+    "origin": "Canada",
+    "size": "Large",
+    "personality": [
+      "Friendly",
+      "Active",
+      "Intelligent"
+    ],
+    "lifeExpectancy": "10-12 years",
+    "energyLevel": "High",
+    "trainability": "High",
+    "characteristics": {
+      "coat": "Short and dense",
+      "colors": [
+        "Black",
+        "Chocolate",
+        "Yellow"
+      ],
+      "averageWeight": {
+        "male": "29-36 kg",
+        "female": "25-32 kg"
+      }
+    }
+  },
+  {
+    "name": "German Shepherd",
+    "imageURL": "https://example.com/images/german-shepherd.jpg",
+    "origin": "Germany",
+    "size": "Large",
+    "personality": [
+      "Loyal",
+      "Brave",
+      "Intelligent"
+    ],
+    "lifeExpectancy": "9-13 years",
+    "energyLevel": "High",
+    "trainability": "High",
+    "characteristics": {
+      "coat": "Medium to long",
+      "colors": [
+        "Black and tan",
+        "Black and red",
+        "Solid black"
+      ],
+      "averageWeight": {
+        "male": "30-40 kg",
+        "female": "22-32 kg"
+      }
+    }
+  },
+  {
+    "name": "French Bulldog",
+    "imageURL": "https://example.com/images/french-bulldog.jpg",
+    "origin": "France",
+    "size": "Small",
+    "personality": [
+      "Playful",
+      "Alert",
+      "Affectionate"
+    ],
+    "lifeExpectancy": "10-12 years",
+    "energyLevel": "Moderate",
+    "trainability": "Moderate",
+    "characteristics": {
+      "coat": "Short",
+      "colors": [
+        "Brindle",
+        "Cream",
+        "White with patches"
+      ],
+      "averageWeight": {
+        "male": "9-13 kg",
+        "female": "8-12 kg"
+      }
+    }
+  },
+  {
+    "name": "Chihuahua",
+    "imageURL": "https://example.com/images/chihuahua.jpg",
+    "origin": "Mexico",
+    "size": "Small",
+    "personality": [
+      "Alert",
+      "Lively",
+      "Loyal"
+    ],
+    "lifeExpectancy": "14-16 years",
+    "energyLevel": "Moderate",
+    "trainability": "Moderate",
+    "characteristics": {
+      "coat": "Short or long",
+      "colors": [
+        "Various",
+        "Spotted",
+        "Solid"
+      ],
+      "averageWeight": {
+        "male": "1.5-3 kg",
+        "female": "1.5-3 kg"
+      }
+    }
+  },
+  {
+    "name": "Golden Retriever",
+    "imageURL": "https://example.com/images/golden-retriever.jpg",
+    "origin": "Scotland",
+    "size": "Large",
+    "personality": [
+      "Friendly",
+      "Reliable",
+      "Intelligent"
+    ],
+    "lifeExpectancy": "10-12 years",
+    "energyLevel": "High",
+    "trainability": "High",
+    "characteristics": {
+      "coat": "Long and dense",
+      "colors": [
+        "Light to dark golden"
+      ],
+      "averageWeight": {
+        "male": "29-34 kg",
+        "female": "25-29 kg"
+      }
+    }
+  },
+  {
+    "name": "Beagle",
+    "imageURL": "https://example.com/images/beagle.jpg",
+    "origin": "United Kingdom",
+    "size": "Small to Medium",
+    "personality": [
+      "Curious",
+      "Friendly",
+      "Cheerful"
+    ],
+    "lifeExpectancy": "12-15 years",
+    "energyLevel": "High",
+    "trainability": "Moderate",
+    "characteristics": {
+      "coat": "Short",
+      "colors": [
+        "Tricolor (black, white and tan)",
+        "Bicolor"
+      ],
+      "averageWeight": {
+        "male": "10-11 kg",
+        "female": "9-10 kg"
+      }
+    }
+  },
+  {
+    "name": "Poodle",
+    "imageURL": "https://example.com/images/poodle.jpg",
+    "origin": "France/Germany",
+    "size": "Toy, Miniature, Standard",
+    "personality": [
+      "Intelligent",
+      "Active",
+      "Alert"
+    ],
+    "lifeExpectancy": "12-15 years",
+    "energyLevel": "High",
+    "trainability": "High",
+    "characteristics": {
+      "coat": "Curly",
+      "colors": [
+        "Black",
+        "White",
+        "Brown",
+        "Gray"
+      ],
+      "averageWeight": {
+        "male": "7-8 kg",
+        "female": "20-32 kg"
+      }
+    }
+  },
+  {
+    "name": "Boxer",
+    "imageURL": "https://example.com/images/boxer.jpg",
+    "origin": "Germany",
+    "size": "Medium to Large",
+    "personality": [
+      "Playful",
+      "Loyal",
+      "Intelligent"
+    ],
+    "lifeExpectancy": "10-12 years",
+    "energyLevel": "High",
+    "trainability": "High",
+    "characteristics": {
+      "coat": "Short",
+      "colors": [
+        "Brindle",
+        "Fawn"
+      ],
+      "averageWeight": {
+        "male": "30-32 kg",
+        "female": "25-27 kg"
+      }
+    }
+  },
+  {
+    "name": "Siberian Husky",
+    "imageURL": "https://example.com/images/siberian-husky.jpg",
+    "origin": "Siberia",
+    "size": "Medium",
+    "personality": [
+      "Outgoing",
+      "Friendly",
+      "Independent"
+    ],
+    "lifeExpectancy": "12-14 years",
+    "energyLevel": "Very High",
+    "trainability": "Moderate",
+    "characteristics": {
+      "coat": "Dense double coat",
+      "colors": [
+        "Black and white",
+        "Gray and white",
+        "Red and white"
+      ],
+      "averageWeight": {
+        "male": "20-27 kg",
+        "female": "16-23 kg"
+      }
+    }
+  },
+  {
+    "name": "Dachshund",
+    "imageURL": "https://example.com/images/dachshund.jpg",
+    "origin": "Germany",
+    "size": "Small",
+    "personality": [
+      "Brave",
+      "Curious",
+      "Stubborn"
+    ],
+    "lifeExpectancy": "12-16 years",
+    "energyLevel": "Moderate",
+    "trainability": "Moderate",
+    "characteristics": {
+      "coat": "Smooth, long-haired or wire-haired",
+      "colors": [
+        "Red",
+        "Black and tan",
+        "Chocolate",
+        "Brindle"
+      ],
+      "averageWeight": {
+        "female": "7-15 kg",
+        "male": "4.5-5 kg"
+      }
+    }
+  },
+  {
+    "name": "Miniature Pinscher",
+    "imageURL": "https://example.com/images/miniature-pinscher.jpg",
+    "origin": "Germany",
+    "size": "Small",
+    "personality": [
+      "Energetic",
+      "Brave",
+      "Alert"
+    ],
+    "lifeExpectancy": "12-16 years",
+    "energyLevel": "High",
+    "trainability": "Moderate",
+    "characteristics": {
+      "coat": "Short and glossy",
+      "colors": [
+        "Black and tan",
+        "Red",
+        "Chocolate and tan"
+      ],
+      "averageWeight": {
+        "male": "4-5 kg",
+        "female": "3.5-4.5 kg"
+      }
+    }
+  }
+]
